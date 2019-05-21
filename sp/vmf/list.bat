@@ -1,0 +1,1 @@
+dir *.bsp /b >> maplist.txt
